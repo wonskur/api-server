@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ```markdown
 # Assistant API + Random API
 
@@ -200,18 +199,10 @@ sudo lsof -ti:8001 | xargs kill -9
 
 ---
 
-## Автор
-
-67
-
----
-
-## 🔗 Ссылки
+## Ссылки
 
 - [OpenRouter](https://openrouter.ai/)
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [SpeechRecognition](https://github.com/Uberi/speech_recognition)
 - [pyttsx3](https://github.com/nateshmbhat/pyttsx3)
 =======
-# api-server
->>>>>>> 3f7a6ffd1368af7a7f6b9a821dab16595f521922
